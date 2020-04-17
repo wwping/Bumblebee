@@ -52,6 +52,11 @@ namespace Bumblebee.Plugins
 
         void Init(Gateway gateway, System.Reflection.Assembly assembly);
 
+        PluginRunInfo RunInfo(int p = 1, int ps = 10)
+        {
+            return new PluginRunInfo();
+        }
+
         string Description { get; }
 
         void LoadSetting(JToken setting);
@@ -73,7 +78,6 @@ namespace Bumblebee.Plugins
         AgentRequesting,
         Responding
     }
-
 
     public class PluginInfo
     {
@@ -144,5 +148,17 @@ namespace Bumblebee.Plugins
         public string Assembly { get; set; }
 
         public string Description { get; set; }
+    }
+
+    public class PluginRunInfo
+    {
+        public List<PluginRunInfoColumn> Columns { get; set; } = new List<PluginRunInfoColumn>();
+        public object Datas { get; set; } = new List<object>();
+    }
+
+    public class PluginRunInfoColumn
+    {
+        public string Key { get; set; } = string.Empty;
+        public string Name { get; set; } = string.Empty;
     }
 }
