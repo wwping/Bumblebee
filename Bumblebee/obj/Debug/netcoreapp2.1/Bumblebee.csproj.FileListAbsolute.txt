@@ -1,0 +1,8 @@
+C:\绿色\projects\service.core30\api.core\Bumblebee\Bumblebee\bin\Debug\netcoreapp2.1\Bumblebee.deps.json
+C:\绿色\projects\service.core30\api.core\Bumblebee\Bumblebee\bin\Debug\netcoreapp2.1\Bumblebee.dll
+C:\绿色\projects\service.core30\api.core\Bumblebee\Bumblebee\bin\Debug\netcoreapp2.1\Bumblebee.pdb
+C:\绿色\projects\service.core30\api.core\Bumblebee\Bumblebee\obj\Debug\netcoreapp2.1\Bumblebee.csprojAssemblyReference.cache
+C:\绿色\projects\service.core30\api.core\Bumblebee\Bumblebee\obj\Debug\netcoreapp2.1\Bumblebee.AssemblyInfoInputs.cache
+C:\绿色\projects\service.core30\api.core\Bumblebee\Bumblebee\obj\Debug\netcoreapp2.1\Bumblebee.AssemblyInfo.cs
+C:\绿色\projects\service.core30\api.core\Bumblebee\Bumblebee\obj\Debug\netcoreapp2.1\Bumblebee.dll
+C:\绿色\projects\service.core30\api.core\Bumblebee\Bumblebee\obj\Debug\netcoreapp2.1\Bumblebee.pdb

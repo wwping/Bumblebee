@@ -261,6 +261,7 @@ namespace Bumblebee.Servers
                         }
                         mResponseHeader.Add(Gateway.GATEWAY_HEADER, Gateway.GATEWAY_VERSION);
                         UrlRoute.Pluginer.HeaderWriting(Request, Response, mResponseHeader);
+                        Response.Header.CopyTo(mResponseHeader);
                         OnWriteCORS(mResponseHeader);
                         mResponseHeader.Write(mProxyStream);
                         if (Server.Gateway.OutputServerAddress)
