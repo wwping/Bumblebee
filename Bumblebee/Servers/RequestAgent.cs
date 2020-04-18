@@ -264,6 +264,7 @@ namespace Bumblebee.Servers
                         Response.Header.CopyTo(mResponseHeader);
                         OnWriteCORS(mResponseHeader);
                         mResponseHeader.Write(mProxyStream);
+
                         if (Server.Gateway.OutputServerAddress)
                         {
                             mProxyStream.Write(Server.AddressHeader, 0, Server.AddressHeader.Length);

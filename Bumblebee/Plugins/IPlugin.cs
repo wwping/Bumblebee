@@ -52,7 +52,7 @@ namespace Bumblebee.Plugins
 
         void Init(Gateway gateway, System.Reflection.Assembly assembly);
 
-        PluginRunInfo RunInfo(int p = 1, int ps = 10)
+        PluginRunInfo RunInfo(int p, int ps)
         {
             return new PluginRunInfo();
         }
@@ -153,7 +153,16 @@ namespace Bumblebee.Plugins
     public class PluginRunInfo
     {
         public List<PluginRunInfoColumn> Columns { get; set; } = new List<PluginRunInfoColumn>();
-        public object Datas { get; set; } = new List<object>();
+        public PluginRunInfoPage Data { get; set; } = new PluginRunInfoPage();
+    }
+
+    public class PluginRunInfoPage
+    {
+
+        public int Count { get; set; } = 1;
+        public int PageIndex { get; set; } = 1;
+        public int PageSize { get; set; } = 1;
+        public object Data { get; set; } = new List<object>();
     }
 
     public class PluginRunInfoColumn
