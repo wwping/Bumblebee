@@ -99,19 +99,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tryparse\\.nuget\\packages\\": {}
+    "C:\\Users\\wwping\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.3.6.7",
     "restore": {
-      "projectUniqueName": "C:\\绿色\\projects\\service.core30\\api.core\\Bumblebee\\Bumblebee\\Bumblebee.csproj",
+      "projectUniqueName": "D:\\绿色\\projects\\service.core30\\api.core\\Bumblebee\\Bumblebee\\Bumblebee.csproj",
       "projectName": "BeetleX.Bumblebee",
-      "projectPath": "C:\\绿色\\projects\\service.core30\\api.core\\Bumblebee\\Bumblebee\\Bumblebee.csproj",
-      "packagesPath": "C:\\Users\\tryparse\\.nuget\\packages\\",
-      "outputPath": "C:\\绿色\\projects\\service.core30\\api.core\\Bumblebee\\Bumblebee\\obj\\",
+      "projectPath": "D:\\绿色\\projects\\service.core30\\api.core\\Bumblebee\\Bumblebee\\Bumblebee.csproj",
+      "packagesPath": "C:\\Users\\wwping\\.nuget\\packages\\",
+      "outputPath": "D:\\绿色\\projects\\service.core30\\api.core\\Bumblebee\\Bumblebee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tryparse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wwping\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -155,7 +155,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

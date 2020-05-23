@@ -415,6 +415,7 @@ namespace Bumblebee.Servers
         {
             mClientAgent.Status = TcpClientAgentStatus.Requesting;
             var request = Request;
+            
             var response = Response;
             Status = RequestStatus.Requesting;
             bool isnew;
@@ -459,6 +460,7 @@ namespace Bumblebee.Servers
 
 
                     request.Header.Write(pipeStream);
+                    //request.Header["Request-Id"] = request.ID.ToString();
                     pipeStream.Write(HeaderTypeFactory.LINE_BYTES, 0, 2);
                     int bodylength = request.Length;
                     while (bodylength > 0)

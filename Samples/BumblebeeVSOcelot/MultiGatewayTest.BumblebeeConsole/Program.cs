@@ -31,10 +31,10 @@ namespace MultiGatewayTest.BumblebeeConsole
             g.HttpOptions(o =>
             {
                 o.Port = 9001;
-                o.LogToConsole = true;
+                o.LogToConsole = false;
             });
             g.Open();
-            g.Routes.Default.AddServer("http://192.168.2.19:8080");
+            g.Routes.Default.AddServer("http://localhost:8080");
             g.SaveConfig();
             return Task.CompletedTask;
         }

@@ -1,0 +1,13 @@
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\bin\Debug\netcoreapp2.1\HttpConfig.json
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\bin\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.deps.json
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\bin\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.runtimeconfig.json
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\bin\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.runtimeconfig.dev.json
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\bin\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.dll
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\bin\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.pdb
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\obj\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.csprojAssemblyReference.cache
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\obj\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.csproj.CoreCompileInputs.cache
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\obj\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.AssemblyInfoInputs.cache
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\obj\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.AssemblyInfo.cs
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\obj\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.dll
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\obj\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.pdb
+D:\绿色\projects\service.core30\api.core\Bumblebee\Samples\BumblebeeVSOcelot\MultiGatewayTest.BumblebeeConsole\obj\Debug\netcoreapp2.1\MultiGatewayTest.BumblebeeConsole.genruntimeconfig.cache

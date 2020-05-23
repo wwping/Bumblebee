@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhYONMfsgqiEmpYkQytHaX5Op/sJVoHxGgjfC88XPWFBJo2OvslMbhATX457eRz8xayUz++x1aycCGUm3YWDdA==",
+  "success": true,
+  "projectFilePath": "D:\\绿色\\projects\\service.core30\\api.core\\Bumblebee\\Bumblebee\\Bumblebee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wwping\\.nuget\\packages\\beetlex\\1.5.1.1\\beetlex.1.5.1.1.nupkg.sha512",
+    "C:\\Users\\wwping\\.nuget\\packages\\beetlex.fasthttpapi\\1.8.2.2\\beetlex.fasthttpapi.1.8.2.2.nupkg.sha512",
+    "C:\\Users\\wwping\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

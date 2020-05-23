@@ -299,6 +299,7 @@ namespace Bumblebee.Servers
                     if (eventRequesting == null || !eventRequesting.Cancel)
                     {
                         agent.Completed = OnCompleted;
+                        //agent.Request.Header["cccc"] = "2222";
                         agent.Execute();
                     }
                 }
